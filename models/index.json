@@ -7,12 +7,12 @@
       "dimensions": 256,
       "archiveBytes": 662246364,
       "archiveSHA256": "b1cccd1ec7c390b0f8361b79cd5cda9719c2a12e7c5ddc4d94f5edc8b4652d52",
-      "minAppBuild": 0,
+      "minAppBuild": 2391,
       "releaseTag": "model-embeddinggemma-2-1",
       "manifestURL": "https://github.com/prashantguleria/branchway-releases/releases/download/model-embeddinggemma-2-1/manifest.json",
       "archiveURL": "https://github.com/prashantguleria/branchway-releases/releases/download/model-embeddinggemma-2-1/embeddinggemma-2.zip",
-      "signature": "",
-      "notes": "Placeholder entry. Not published: the release asset does not exist yet, minAppBuild is a placeholder (0) for the owner to set, and signature is empty until the owner signs manifest.json with the model Ed25519 key."
+      "signature": "CRrxU67Bb/XebtE4H9PoQW7SwQwM2X4XtP2wqTzeWS+T+b3TwS6kzJ1vzcBHtUNuNpnPcA08XBh+CZib4EeoCg==",
+      "notes": "Optional photo-search model for Smarter photo search. 662 MB download, about 894 MB on disk. Runs on your Mac; Branchway checks the file hashes and the signature before using it."
     }
   ]
 }

@@ -1,11 +1,11 @@
 # Models
 
-`index.json` lists the optional search models that can be downloaded into Branchway. It is the planned
-update channel for models.
+`index.json` lists the optional search models that can be downloaded into Branchway. It is the update channel for models.
 
-> **Status: planned.** The app does not read this index yet. Today the model section of Settings › Search
-> shows "Not available yet", and the app's download address and public key are not filled in. Nothing here
-> is live until the first release is published.
+> **Status: first model published.** `embeddinggemma-2` build 1 is released as `model-embeddinggemma-2-1`
+> and the app downloads it from Settings › Search. The app has the release addresses and the public key
+> built in; it does not read this index yet, so a newer model needs an app update that points at it.
+> While this repository is private the download answers "Not available right now".
 
 ## Entry fields
 
